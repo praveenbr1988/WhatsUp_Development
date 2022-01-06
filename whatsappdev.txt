@@ -9,3 +9,5 @@ Audio video code
 Call code
 
 Hiding status code
+
+Search functionality
