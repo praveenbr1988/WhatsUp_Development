@@ -7,3 +7,5 @@ Messages code
 Audio video code
 
 Call code
+
+Hiding status code
